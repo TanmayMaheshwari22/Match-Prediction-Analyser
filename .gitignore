@@ -1,0 +1,11 @@
+# Local environment variables containing private API credentials
+.env
+
+# Local python virtual environment folders
+.venv/
+venv/
+env/
+
+# Python caching footprints
+__pycache__/
+*.pyc
